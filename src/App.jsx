@@ -1,6 +1,3 @@
-// Codevena.dev – Starterprojekt mit erweiterter Startseite
-// React + Tailwind + Branding Setup
-
 import React from "react";
 import "./styles/global.css";
 
